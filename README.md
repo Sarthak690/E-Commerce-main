@@ -39,7 +39,7 @@ This project is a full-featured eCommerce website built using the MERN stack (Mo
 
 1. **Clone the repository**:
     ``` bash
-    git clone https://github.com/Sarthak690/E-Commerce-main.git
+    git clone https://github.com/Sarthak690/MERN-Ecommerce-Platform-main.git
     cd E-COMMERCE
     ```
 
